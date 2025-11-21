@@ -1,4 +1,4 @@
-=#### Problem Statement
+#### Problem Statement
 In large organizations and SMEs, employees frequently waste significant time searching for scattered, outdated, or confusing internal documentation (HR policies, technical guides, company news). This friction lowers operational efficiency and increases onboarding time.
 
 #### Solution: The Internal Knowledge Agent
