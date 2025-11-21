@@ -46,4 +46,4 @@ The Internal Knowledge Agent reduces the average time spent searching for intern
 #### Execution
 Run the main script:
 ```bash
-python enterprise_agent_capstone.py
+python Enterprise-onboarding-Agent.py
